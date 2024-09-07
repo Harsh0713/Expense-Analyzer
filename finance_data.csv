@@ -3,28 +3,28 @@ date,amount,category,description
 07-08-2024,23400,Income,Side Gig
 01-01-2024,	15000,Income,	Salary
 01-01-2024,	15000,	Income,	Salary
-02-01-2024,	3000,	Expense,	Groceries
-05-01-2024,	2000,	Income	,Freelance
-06-01-2024,	1500,	Expense,ining Out
-10-01-2024,	3500,	Income,	Investments
-12-01-2024,	8000,	Expense,	Utilities
-15-01-2024,	1200,	Income	,Gifts
-18-01-2024,	2500,	Expense,	Entertainment
+02-01-2024,	30000,	Expense,	Groceries
+05-01-2024,	20000,	Income	,Freelance
+06-01-2024,	15000,	Expense,ining Out
+10-01-2024,	35000,	Income,	Investments
+12-01-2024,	10000,	Expense,	Utilities
+15-01-2024,	12007,	Income	,Gifts
+18-01-2024,	25000,	Expense,	Entertainment
 20-01-2024,	18000,	Income,	Salary
-22-01-2024,	4000,	Expense,	Rent
-25-01-2024,	2800,	Income,	Freelance
-28-01-2024,	1200,	Expense,	Transportation
-31-01-2024,	4200,	Income,	Investments
-02-02-2024,	3200,	Expense,	Healthcare
-05-02-2024,	2000,	Income,	Freelance
-07-02-2024,	1800,	Expense,	Dining Out
+22-01-2024,	40000,	Expense,	Rent
+25-01-2024,	28000,	Income,	Freelance
+28-01-2024,	12000,	Expense,	Transportation
+31-01-2024,	42000,	Income,	Investments
+02-02-2024,	32000,	Expense,	Healthcare
+05-02-2024,	20000,	Income,	Freelance
+07-02-2024,	18000,	Expense,	Dining Out
 10-02-2024,	14500,	Income,	Salary
-12-02-2024,	2200,	Expense,	Utilities
-15-02-2024,	3600,	Income,	Investments
-18-02-2024,	2800,	Expense,	Entertainment
-20-02-2024,	1000,	Income,	Gifts
-22-02-2024,	3900,	Expense,	Rent
-28-02-2024,	5000,	Income,	Freelance
-02-03-2024,	1600,	Expense,	Groceries
+12-02-2024,	22000,	Expense,	Utilities
+15-02-2024,	36000,	Income,	Investments
+18-02-2024,	28000,	Expense,	Entertainment
+20-02-2024,	10000,	Income,	Gifts
+22-02-2024,	39000,	Expense,	Rent
+28-02-2024,	50000,	Income,	Freelance
+02-03-2024,	16000,	Expense,	Groceries
 05-03-2024,	20000,	Income,	Salary 
  

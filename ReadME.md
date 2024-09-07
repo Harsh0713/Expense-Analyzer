@@ -1,5 +1,5 @@
 
-# EXPENSE ANALYZER
+EXPENSE ANALYZER
 
 ## Overview
 
